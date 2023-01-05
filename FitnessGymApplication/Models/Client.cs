@@ -66,7 +66,7 @@ namespace FitnessGymApplication.Models
         public virtual ICollection<FavoriteExercise>? FavoriteExercice { get; set; }
         public virtual ICollection<FavoriteLocation>? FavoriteLocation { get; set; }
 
-
+        //Test repository
 
     }
 }
